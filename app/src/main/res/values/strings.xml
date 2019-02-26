@@ -12,4 +12,6 @@
     <string name="email_str">Email</string>
     <string name="name_str">Name</string>
     <string name="age_str">Age</string>
+    <string name="back_str">Back</string>
+    <string name="log_out_str">Log out</string>
 </resources>

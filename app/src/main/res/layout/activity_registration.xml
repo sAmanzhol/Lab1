@@ -52,17 +52,17 @@
             app:layout_constraintTop_toBottomOf="@id/regPass">
 
         <Button
-                android:id="@+id/signUpBtn"
+                android:id="@+id/regBackBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:layout_marginEnd="@dimen/margin_top"
-                android:text="@string/sign_up_str"
+                android:text="@string/back_str"
                 android:textColor="#fff"
                 android:background="@color/colorPrimary" />
 
         <Button
-                android:id="@+id/loginBtn"
+                android:id="@+id/regLoginBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
